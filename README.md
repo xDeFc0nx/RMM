@@ -86,9 +86,9 @@ This is a bot made for our server
      "token": "YOUR TOKEN HERE",
    ```
 4. Enter your  mongoose connection in `botconfig/config.js`
-```js
-"Database": "MONGOOSE CONNECTION HERE",
-```
+   ```js
+     "Database": "MONGOOSE CONNECTION HERE",
+   ```
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
