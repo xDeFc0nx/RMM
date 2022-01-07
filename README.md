@@ -75,7 +75,7 @@ This is a bot made for our server
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/xDeFc0nx/RMM-bot
+   git clone https://github.com/xDeFc0nx/RMM/
    ```
 2. Install NPM packages
    ```sh
